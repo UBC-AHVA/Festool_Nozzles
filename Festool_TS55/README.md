@@ -14,9 +14,9 @@ support material for the radial spline. If the support material is
 controlled, the support structure is ejected when the captive bayonet nut
 is turned to the "left", leaving clean-up to an absolute minimum.
 
-As this is a fairly precise Print-In-Place design, having your machine
+As this is a fairly precise print-in-place design, having your machine
 well calibrated for both dimensional accuracy and keeping stringing to
-a minimum is essential. The part in the example was printed on a Creatlity
+a minimum is essential. The part in the example was printed on a Creality
 Ender 3 v2, with close-to default settings, and Creality brand grey ABS.
 
 ![](../images/ts_demo.webp)
