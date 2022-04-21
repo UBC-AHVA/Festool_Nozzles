@@ -9,4 +9,4 @@ nut and outlet with a 30 tooth radial spline. Nozzle can be positioned and
 locks into place when locked onto the saw. Prevents the nozzle from
 swinging down under the weight of the hose.
 
-![](../images/ts55_demo.webp)
+![](../images/ts_demo.webp)
