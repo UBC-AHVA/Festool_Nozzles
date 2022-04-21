@@ -16,6 +16,7 @@ is turned to the "left", leaving clean-up to an absolute minimum.
 
 As this is a fairly precise Print-In-Place design, having your machine
 well calibrated for both dimensional accuracy and keeping stringing to
-a minimum is essential.
+a minimum is essential. The part in the example was printed on a Creatlity
+Ender 3 v2, with close-to default settings, and Creality brand grey ABS.
 
 ![](../images/ts_demo.webp)
