@@ -16,6 +16,6 @@ is turned to the "left", leaving clean-up to an absolute minimum.
 
 As this is a fairly precise Print-In-Place design, having your machine
 well calibrated for both dimensional accuracy and keeping stringing to
-a minimum is` essential.
+a minimum is essential.
 
 ![](../images/ts_demo.webp)
