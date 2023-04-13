@@ -15,7 +15,7 @@ Tools with tested and working adapter designs:
   - Bosch ROS10 Orbital Sander
   - Dewalt D26441 Palm Sander
   - Dewalt DW680 Power Planer
-  - Festool TS55 Track Saw
+  - [Festool TS55 Track Saw](https://raw.githubusercontent.com/UBC-AHVA/Festool_Nozzles/main/images/ts_demo.webp)
   - Makita 9404 Belt Sander
   - Makita BO5031 Orbital Sander
   - Porter Cable Model 371 Belt Sander
